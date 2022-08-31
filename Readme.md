@@ -15,3 +15,8 @@
 
 - Pink
 - Grün
+
+# Monday 01.01.2022
+- git branch Name
+- git switch Name
+- git branch -d
