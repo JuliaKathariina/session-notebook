@@ -5,3 +5,13 @@
 ## Dies ist ein H2
 
 ###### Dies ist ein H6
+
+1. Das ist der erste Listenpunkt.
+2. Das ist der zweite Listenpunkt. 
+
+* Rot
+* Grün
+* Blau
+
+- Pink
+- Grün
